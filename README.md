@@ -1,4 +1,3 @@
-Here’s a similarly styled README for your **Netflix Recommender System** project:
 
 ---
 
